@@ -1,175 +1,200 @@
-```{=html}
-<h1 align="center">
-```
-Hi 👋, I'm ARAVIND KRISHNA P S
-```{=html}
-</h1>
-```
-```{=html}
-<h3 align="center">
-```
-Data Analyst \| AI & Machine Learning Engineer \| Building Intelligent
-Data-Driven Solutions
-```{=html}
-</h3>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Data+Analyst;AI+%26+Machine+Learning+Engineer;Python+Developer;Power+BI+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<a href="https://linkedin.com/in/aravind-krishna-p-s-76061529b">`{=html}`<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://github.com/ARAV026">`{=html}`<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://leetcode.com/u/ARAV_026/">`{=html}`<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="https://www.kaggle.com/aravindkrishnaps">`{=html}`<img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="mailto:aravindkrishnaps6@gmail.com">`{=html}`<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>`{=html}`</a>`{=html}
-`<a href="#">`{=html}`<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>`{=html}`</a>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://komarev.com/ghpvc/?username=ARAV026&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>`{=html}
-```{=html}
-</p>
-```
+<h1 align="center">Hi 👋, I'm ARAVIND KRISHNA P S</h1>
 
-------------------------------------------------------------------------
+<h3 align="center">
+Data Analyst • AI & Machine Learning Enthusiast • Full Stack Developer
+</h3>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Data+Analyst;AI+%26+Machine+Learning+Enthusiast;Python+Developer;Power+BI+Developer;Building+Real+World+Projects;Always+Learning+New+Technologies" />
+</p>
+
+---
 
 # 🚀 About Me
 
 🎓 Final Year B.Tech CSE (Data Science & Artificial Intelligence)
 
-📊 Passionate about transforming raw data into actionable insights.
+📊 Passionate about transforming data into meaningful insights.
 
-🤖 Focused on Artificial Intelligence, Machine Learning, Data Analytics
-and Business Intelligence.
+🤖 Interested in Artificial Intelligence, Machine Learning and Data Analytics.
 
-💻 Building practical applications that combine analytics with modern
-software engineering.
+💻 I love building real-world applications using modern technologies.
 
-🌱 Currently learning Advanced SQL, Power BI, Cloud and MLOps.
+📈 Currently improving my Data Analytics, SQL, Power BI and Python skills.
 
-🎯 Goal: Become a professional Data Analyst and AI Engineer.
+🌱 Learning Advanced Data Analytics, Cloud and MLOps.
 
-## 💻 Tech Stack
+⚡ Goal:
+Become a professional Data Analyst and AI Engineer.
 
-Programming: Python • Java • C++ • JavaScript • TypeScript
+---
 
-Data: SQL • Power BI • Excel • Pandas • NumPy • Matplotlib •
-Scikit-learn
+# 🌐 Connect With Me
 
-Web: React • Node.js • Express • MongoDB • Tailwind CSS
+<p align="left">
 
-AI/ML: FastAPI • Flask • Machine Learning • Deep Learning
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
 
-```{=html}
-<p align="center">
-```
-`<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,fastapi,flask,docker,git,github,vscode,html,css,tailwind,figma,linux"/>`{=html}
-```{=html}
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
+</a>
+
+<a href="mailto:aravindkrishnaps6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
 </p>
-```
+
+---
+
+# 💻 Tech Stack
+
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,typescript,react,nodejs,express,mongodb,mysql,postgres,fastapi,flask,docker,git,github,vscode,html,css,tailwind,figma,linux" />
+
+---
+
+# 📊 Data Analytics Stack
+
+<img src="https://skillicons.dev/icons?i=python,mysql" />
+
+- Power BI
+- Tableau
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Scikit-Learn
+
+---
+
 # 🚀 Featured Projects
 
-### 🌍 CivicConnect
+## 🌍 CivicConnect
+AI-powered community issue reporting platform with real-time tracking, analytics and geolocation.
 
-AI-powered community issue reporting platform with geo-tagging,
-analytics and status tracking.
+Tech:
+React • Node.js • MongoDB • Express • Tailwind CSS
 
-### 🌾 CropAI
+---
 
-Smart Agriculture platform featuring crop disease detection, soil
-analysis, weather integration and yield prediction.
+## 🌾 CropAI
+Smart Agriculture System using AI & Machine Learning.
 
-### 🛡 VulnSight AI
+Features:
+- Crop Disease Detection
+- Soil Analysis
+- Weather Integration
+- Yield Prediction
+- Livestock Monitoring
 
-AI-powered web vulnerability scanner supporting SQL Injection and XSS
-detection with FastAPI backend.
+---
 
-### 🏥 Hospital Management System
+## 🛡 VulnSight AI
 
-Hospital management solution with authentication and database
-integration.
+AI Powered Web Vulnerability Scanner
+
+Features:
+- SQL Injection Detection
+- XSS Detection
+- Security Reports
+- FastAPI Backend
+- React Dashboard
+
+---
+
+## 🏥 Hospital Management System
+
+Complete Hospital Management System with database integration.
+
+---
 
 # 📈 GitHub Analytics
 
-```{=html}
 <p align="center">
-```
-`<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARAV026&show_icons=true&theme=tokyonight"/>`{=html}
-`<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAV026&layout=compact&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://streak-stats.demolab.com?user=ARAV026&theme=tokyonight"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARAV026&theme=tokyo-night"/>`{=html}
-```{=html}
-</p>
-```
-```{=html}
-<p align="center">
-```
-`<img src="https://github-profile-trophy.vercel.app/?username=ARAV026&theme=tokyonight&row=2&column=4"/>`{=html}
-```{=html}
-</p>
-```
-# 🏆 Certifications
 
--   IBM watsonx.ai
--   Generative AI Fundamentals
--   AWS Fundamentals
--   Power BI
--   Python for Data Science
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=ARAV026&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ARAV026&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ARAV026&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ARAV026&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🛠 Tools
+
+- VS Code
+- Git
+- GitHub
+- Docker
+- Postman
+- Jupyter Notebook
+- Power BI
+- Tableau
+- Figma
+
+---
 
 # 📚 Currently Learning
 
--   Advanced SQL
--   Power BI
--   Machine Learning
--   Deep Learning
--   Azure
--   AWS
--   MLOps
+- Advanced SQL
+- Power BI
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Azure
+- AWS
+
+---
 
 # 🎯 2026 Goals
 
--   Build 20+ production projects
--   Master SQL & Power BI
--   Contribute to Open Source
--   Build a premium portfolio
--   Secure a Data Analyst / AI Engineer role
+✅ Become Placement Ready
 
-# 📍 Contact
+✅ Build Premium Portfolio
 
--   📧 aravindkrishnaps6@gmail.com
--   📍 Chennai, Tamil Nadu, India
--   💼 LinkedIn: https://linkedin.com/in/aravind-krishna-p-s-76061529b
--   💻 GitHub: https://github.com/ARAV026
--   🧩 LeetCode: https://leetcode.com/u/ARAV_026/
--   📊 Kaggle: https://www.kaggle.com/aravindkrishnaps
+✅ Complete 20+ Projects
 
-> "Turning data into decisions and ideas into intelligent solutions."
+✅ Solve 500+ DSA Problems
 
-```{=html}
+✅ Earn Cloud Certifications
+
+✅ Land a Data Analyst Role
+
+---
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=ARAV026&label=Profile%20Views&color=0e75b6&style=flat"/>
+
+</p>
+
+---
+
 <h3 align="center">
-```
+
 ⭐ Thanks for visiting my profile ⭐
-```{=html}
+
 </h3>
-```
