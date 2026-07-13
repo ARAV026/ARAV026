@@ -1,14 +1,123 @@
-# ARAVIND KRISHNA P S
+┌────────────────────────────────────────────┐
+│              CUSTOM HERO BANNER            │
+└────────────────────────────────────────────┘
 
-Premium GitHub README placeholder.
+Hi 👋 I'm ARAVIND KRISHNA P S
 
-Includes: - Hero - About - Tech Stack - Projects (CivicConnect, CropAI,
-VulnSight-AI, Hospital Management System) - GitHub Stats -
-Certifications - Roadmap - Contact
+Animated Typing
 
-Links: - LinkedIn:
-https://linkedin.com/in/aravind-krishna-p-s-76061529b - GitHub:
-https://github.com/ARAV026 - LeetCode:
-https://leetcode.com/u/ARAV_026/ - Kaggle:
-https://www.kaggle.com/aravindkrishnaps - Portfolio:
-`<add after deployment>`{=html}
+Social Badges
+
+Visitor Counter
+
+GitHub Followers
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+👨‍💻 About Me
+
+Professional Summary
+
+Mission Statement
+
+Career Objective
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🌍 Connect
+
+Portfolio
+
+LinkedIn
+
+GitHub
+
+LeetCode
+
+Kaggle
+
+Email
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💻 Tech Ecosystem
+
+Programming
+
+Data Analytics
+
+AI & ML
+
+Web Development
+
+Cloud
+
+Tools
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📊 Data Analytics
+
+Power BI
+
+SQL
+
+Python
+
+Excel
+
+Statistics
+
+Machine Learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🚀 Featured Projects
+
+🌍 CivicConnect
+
+🌾 CropAI
+
+🛡 VulnSight AI
+
+🏥 Hospital Management System
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏆 Certifications
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📈 GitHub Analytics
+
+Stats
+
+Languages
+
+Streak
+
+Activity Graph
+
+GitHub Trophy
+
+Contribution Snake
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🏅 Achievements
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+📚 Currently Learning
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+🎯 2026 Roadmap
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+💡 Professional Quote
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+⭐ Footer
